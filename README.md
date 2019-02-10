@@ -78,7 +78,7 @@ Wrong: Page pro
 
 2. **Time & Material (T&M) projects** - We manage the project and estimate it before the start but the estimates are not binding. We implement the project and settle every month based on the hourly report. [Read more about it.](https://rubygarage.org/blog/time-and-material-model)
 
-3. **Fixed price & budget projects  **- We estimate the time and budget of the project in advance. Then we divide the project into stages and settle after reaching a given stage. We have to make the project on time and stay within budget because otherwise, the company does not earn or pays contractual penalties. [Read more about it.](https://medium.com/@Eugeniya/time-and-materials-vs-fixed-price-which-to-choose-for-your-project-11dc6adc758b)
+3. **Fixed price & budget projects ** - We estimate the time and budget of the project in advance. Then we divide the project into stages and settle after reaching a given stage. We have to make the project on time and stay within budget because otherwise, the company does not earn or pays contractual penalties. [Read more about it.](https://medium.com/@Eugeniya/time-and-materials-vs-fixed-price-which-to-choose-for-your-project-11dc6adc758b)
 
 4. **Bodyleasing** - Companies, mostly big agencies or software houses, hire our developers. We settle monthly based on an hourly report. [Read more about it.](http://www.pmi-soft.com/what-is-body-leasing/)
 
