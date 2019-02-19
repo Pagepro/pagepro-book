@@ -741,7 +741,7 @@ Companies which do not monitor the profitability of projects, usually have about
 
 **Monthly activities:**
 
-1. In  **[PAP**P](https://profitability-app.firebaseapp.com), enter [Projects > Summary](https://dev-profitability-app.firebaseapp.com/projects-summary) and filter last month projects.
+1. In  [PAPP](https://profitability-app.firebaseapp.com), enter [Projects > Summary](https://dev-profitability-app.firebaseapp.com/projects-summary) and filter last month projects.
 
     1. We have a list of all the projects the team worked on last month.
 
@@ -757,7 +757,7 @@ Companies which do not monitor the profitability of projects, usually have about
 
     4. The check should be done in the first week of the new month, after all invoices have been issued.
 
-2. In **[PAP**P](https://profitability-app.firebaseapp.com), we enter the Profitability monitoring of developers tab (Team Profitability) (in progress)
+2. In [PAPP](https://profitability-app.firebaseapp.com), we enter the Profitability monitoring of developers tab (Team Profitability) (in progress)
 
     5. Filter last month.
 
@@ -833,4 +833,3 @@ Ultimately, we will be able to monitor:
 * Exercises in JS:
 
     * [https://docs.google.com/document/d/1y4Vsqs1N6N4oArC349iznwvazkyl67ISBYWJ0mR4emQ/edit?ts=57289d18](https://docs.google.com/document/d/1y4Vsqs1N6N4oArC349iznwvazkyl67ISBYWJ0mR4emQ/edit?ts=57289d18) 
-
