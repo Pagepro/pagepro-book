@@ -10,7 +10,7 @@ Handbook for new team members.
 
 ## Why Pagepro was created?
 
-We wanted to work the most interesting projects in the world. To do that we had to build a great team, get specialised and find ideal clients worldwide. We've achieved this and this is helping us to grow. We want to see how our clients winning when we are providing a great value for them thanks to our high specialisation, knowledge and helpfulness. We are delivering high quality code to make their web and mobile platforms work fast, stable with best user experience and be easy to scale.
+We wanted to work on the most interesting projects in the world. To do that we had to build a great team, get specialised and find ideal clients worldwide. We've achieved this and this is helping us to grow. We want to see how our clients winning when we are providing a great value for them thanks to our high specialisation, knowledge and helpfulness. We are delivering high quality code to make their web and mobile platforms work fast, stable with best user experience and be easy to scale.
 
 We are front-end development consultants, trusted by digital leaders worldwide. 
 
@@ -38,15 +38,15 @@ Pagepro specialises in front-end technologies. With this single-minded approach,
 
 * Create mobile apps: **React Native**
 
-* Convert Web Designs into HTML/CSS/JS templates,
+* Convert Web Designs into **HTML/CSS/JS templates**,
 
-* Prepare mailings,
+* Prepare **mailings & newsletters**,
 
-* Implement WordPress Websites & WooCommerce eCommerce Platforms
+* Implement **WordPress Websites** & **WooCommerce eCommerce Platforms**
 
-* Create style guides
+* Create **style guides**
 
-* Prepare animations
+* Prepare **animations**
 
 ## What does Pagepro not do?
 
@@ -84,7 +84,7 @@ Wrong: Page pro
 
 2. **Time & Material (T&M) projects** - We manage the project and estimate it before the start but the estimates are not binding. We implement the project and settle every month based on the hourly report. [Read more about it.](https://rubygarage.org/blog/time-and-material-model)
 
-3. **Fixed price & budget projects ** - We estimate the time and budget of the project in advance. Then we divide the project into stages and settle after reaching a given stage. We have to make the project on time and stay within budget because otherwise, the company does not earn or pays contractual penalties. [Read more about it.](https://medium.com/@Eugeniya/time-and-materials-vs-fixed-price-which-to-choose-for-your-project-11dc6adc758b)
+3. **Fixed price & budget projects** - We estimate the time and budget of the project in advance. Then we divide the project into stages and settle after reaching a given stage. We have to make the project on time and stay within budget because otherwise, the company does not earn or pays contractual penalties. [Read more about it.](https://medium.com/@Eugeniya/time-and-materials-vs-fixed-price-which-to-choose-for-your-project-11dc6adc758b)
 
 4. **Bodyleasing** - Companies, mostly big agencies or software houses, hire our developers. We settle monthly based on an hourly report. [Read more about it.](http://www.pmi-soft.com/what-is-body-leasing/)
 
@@ -93,15 +93,9 @@ Wrong: Page pro
 <table>
   <tr>
     <td></td>
-    <td>React Department</td>
-    <td>Front-end Department</td>
-    <td>WordPress Department</td>
-  </tr>
-  <tr>
-    <td>Ideal Company</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <th>React Department</th>
+    <th>Front-end Department</th>
+    <th>WordPress Department</th>
   </tr>
   <tr>
     <td>Regions or countries</td>
@@ -438,6 +432,18 @@ What can you do before your first day at work?
 
 * Read articles about preparing code review with the use of pull / merge requests and follow good practises. Share links on #front-end-development, Slack.
 
+# Prepare for the position of a JavaScript/React Developer
+
+@TODO
+
+# Prepare for the position of a New Business Developer
+
+@TODO
+
+# Prepare for the position of a Project Manager
+
+@TODO
+
 # First day at Pagepro
 
 * Meet the team and look around the office
@@ -445,8 +451,6 @@ What can you do before your first day at work?
 * Sign the NDA contract
 
 * Configure your work environment:
-
-    * Turn on your computer
 
     * Create user account
 
@@ -485,12 +489,18 @@ What can you do before your first day at work?
     * PipeDrive CRM
 
     * BrowserStack
+    
+* Setup Email Signature
 
-# Confidentiality
+## Confidentiality
 
 A confidentiality agreement is a mandatory step when starting cooperation. Pagepro often acts as an "implicit" subcontractor for large Polish companies and foreign companies so the target customer is not aware of who is doing the project. By signing the NDA agreement we are sure that you will not disclose confidential information outside.
 
 **Template for NDA ****contract****: **[https://docs.google.com/document/d/12dG2e2gvb9ZM0slmjpuDdTzd1rzeUKYePEwlM7sthrw/edit?usp=sharing](https://docs.google.com/document/d/12dG2e2gvb9ZM0slmjpuDdTzd1rzeUKYePEwlM7sthrw/edit?usp=sharing) 
+
+## Email Signature
+
+@TODO
 
 # Organisational arrangements
 
@@ -520,11 +530,9 @@ Each job has a specific hourly rate. If you were asked to work overtime, each ho
 
 ## Days off
 
-You have 25 days of holiday. There is no sick leave or the like. We added 4 days to 21 days of statutory holiday days for this type of cases. If you do not work the whole year, you calculate the amount of holidays in proportion to the work days worked.
-
 ### One day off
 
-Such a leave must be arranged for at least 48 hours before the planned day off. However, if an extraordinary situation occurs, you can report it later.
+Such a leave must be arranged for at least 48 hours before the planned day off. However, if an extraordinary situation occurs, you can report it later. In case of sudden need of day off inform your team on Slack general channel. 
 
 ### A few days off
 
@@ -541,10 +549,6 @@ Holidays are recorded in the calendar, which counts the remaining days off:
 [https://docs.google.com/spreadsheets/d/1mNx4FSjgSQ12NVwnYFfpxr-FWDRH2g8YO0MG-8MRElU/edit](https://docs.google.com/spreadsheets/d/1mNx4FSjgSQ12NVwnYFfpxr-FWDRH2g8YO0MG-8MRElU/edit) 
 
 Duplicate the document, change the title adding the initials or full name and then we make it available to Krzysiek.
-
-### Unused days off
-
-In the case of an unused leave, a maximum of 10 days off passes on to the following year, so it is recommended that the employees do take their time off from work in a given calendar year. 
 
 ## Lunch
 
@@ -807,6 +811,14 @@ Ultimately, we will be able to monitor:
 
 * Average rates for each service
 % of revenue from Time & Material or Fixed Price projects
+
+# Invoicing Pagepro
+
+@TODO
+
+# Travel Booking Requests
+
+@TODO
 
 # After work
 
