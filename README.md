@@ -1,12 +1,18 @@
 ![image alt text](image_0.png)
 
-Pagepro Book
+**Pagepro Book**
 
 Handbook for new team members.
 
 [[TOC]]
 
 # Pagepro
+
+## Why Pagepro was created?
+
+We wanted to work the most interesting projects in the world. To do that we had to build a great team, get specialised and find ideal clients worldwide. We've achieved this and this is helping us to grow. We want to see how our clients winning when we are providing a great value for them thanks to our high specialisation, knowledge and helpfulness. We are delivering high quality code to make their web and mobile platforms work fast, stable with best user experience and be easy to scale.
+
+We are front-end development consultants, trusted by digital leaders worldwide. 
 
 ## Pagepro Values
 
@@ -24,7 +30,7 @@ Handbook for new team members.
 
 ## What is Pagepro good at?
 
-Pagepro specialises in front-end technologies. With this single-minded approach, we aim to become world known experts.
+Pagepro specialises in front-end technologies. With this single-minded approach, we aim to become world known experts in specific areas of software development.
 
 **We know how to:**
 
@@ -32,7 +38,7 @@ Pagepro specialises in front-end technologies. With this single-minded approach,
 
 * Create mobile apps: **React Native**
 
-* Convert PSD projects to HTML/CSS,
+* Convert Web Designs into HTML/CSS/JS templates,
 
 * Prepare mailings,
 
@@ -44,7 +50,7 @@ Pagepro specialises in front-end technologies. With this single-minded approach,
 
 ## What does Pagepro not do?
 
-Pagepro does not make backend solutions. If the client outsources this type of work, Pagepro takes subcontractors, usually external companies to perform the task.
+Pagepro does not provide backend development services. If the client requires this type of work, Pagepro takes subcontractors, usually external companies to perform the task.
 
 ### Typical subcontractor tasks
 
