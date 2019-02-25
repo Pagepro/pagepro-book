@@ -795,11 +795,17 @@ When issuing invoices, the tool analyses each item and assigns the appropriate t
 
 **Examples:**
 
-* Name: programming jobs React, unit of measurement: an hour, number of hours: 100, rate: 100 zł,
+* Name: Programming jobs React, unit of measurement: an hour, number of hours: 100, rate: 100 zł,
 
-* Name: programming jobs WordPress, unit of measurement: an hour, number of hours: 100, rate: 100 zł,
+* Name: Programming jobs WordPress, unit of measurement: an hour, number of hours: 100, rate: 100 zł,
 
 * Name: SLA jobs, unit of measurement: an hour, number of hours: 8, rate: 500 zł
+
+* Name: Web Design, unit of measurement: an hour, number of hours: 8, rate: 500 zł
+
+* Name: Mobile Development unit of measurement: an hour, number of hours: 8, rate: 500 zł
+
+* Name: Maling Development unit of measurement: an hour, number of hours: 8, rate: 500 zł
 
 Thanks to this, we can check that we sold "x" React programming hours in a given month at the average "y" rate. Of course, we issue invoices in Polish and English, which is why we will have two variants of naming.
 
