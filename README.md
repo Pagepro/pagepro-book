@@ -799,6 +799,8 @@ When issuing invoices, the tool analyses each item and assigns the appropriate t
 
 * Name: Programming jobs WordPress, unit of measurement: an hour, number of hours: 100, rate: 100 zł,
 
+* Name: WordPress Development - bucket of hours, unit of measurement: an hour, number of hours: 100, rate: 100 zł,
+
 * Name: SLA jobs, unit of measurement: an hour, number of hours: 8, rate: 500 zł
 
 * Name: Web Design, unit of measurement: an hour, number of hours: 8, rate: 500 zł
