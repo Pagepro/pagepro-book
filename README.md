@@ -386,6 +386,10 @@ We prefer Google Docs because they are:
 
 * Without document type versioning (e.g. xls vs. xlsx).
 
+#### Google Slides Template:
+
+https://docs.google.com/presentation/d/159FMtyUbtkSQjKkuSnNIteroOzII7RAt-0SFnIR3VXs/edit#slide=id.ge0d554001_0_0
+
 ### Meetings
 
 We use [Google Hangouts](http://www.google.com/+/learnmore/hangouts/) and [Uber Conference](https://www.uberconference.com/) for the meetings.
